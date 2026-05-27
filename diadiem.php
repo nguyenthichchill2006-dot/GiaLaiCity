@@ -351,7 +351,7 @@ include 'includes/header.php';
             <div class="col-md-8 dest-item" data-cat="ho-nuoc">
                 <div class="dest-card featured h-100">
                     <div class="card-img-wrap">
-                        <img src="bienho.png" alt="Biển Hồ T'Núh">
+                        <img src="img/bienho.png" alt="Biển Hồ T'Núh">
                         <div class="featured-crown"><i class="fas fa-crown"></i> Nổi Bật Nhất</div>
                     </div>
                     <div class="card-body-custom">
@@ -377,7 +377,7 @@ include 'includes/header.php';
             <div class="col-md-4 dest-item" data-cat="thac-nuoc">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="thacphucuong.jpg" alt="Thác Phú Cường">
+                        <img src="img/thacphucuong.jpg" alt="Thác Phú Cường">
                         <div class="card-category">Thác Nước</div>
                     </div>
                     <div class="card-body-custom">
@@ -402,7 +402,7 @@ include 'includes/header.php';
             <div class="col-md-4 dest-item" data-cat="lich-su">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="baotang.jpg" alt="Bảo Tàng Gia Lai">
+                        <img src="img/baotang.jpg" alt="Bảo Tàng Gia Lai">
                         <div class="card-category">Lịch Sử</div>
                     </div>
                     <div class="card-body-custom">
@@ -427,7 +427,7 @@ include 'includes/header.php';
             <div class="col-md-4 dest-item" data-cat="van-hoa">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="langplei.jpg" alt="Làng Plei Ơp">
+                        <img src="img/langplei.jpg" alt="Làng Plei Ơp">
                         <div class="card-category">Văn Hoá</div>
                     </div>
                     <div class="card-body-custom">
@@ -452,7 +452,7 @@ include 'includes/header.php';
             <div class="col-md-4 dest-item" data-cat="thien-nhien">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="doiche.jpg" alt="Đồi Chè Biển Hồ">
+                        <img src="img/doiche.jpg" alt="Đồi Chè Biển Hồ">
                         <div class="card-category">Thiên Nhiên</div>
                     </div>
                     <div class="card-body-custom">
@@ -480,7 +480,7 @@ Không chỉ đẹp mắt, nơi đây còn là điểm đến lý tưởng để
             <div class="col-md-8 dest-item" data-cat="thien-nhien">
                 <div class="dest-card featured h-100">
                     <div class="card-img-wrap">
-                        <img src="kakinh.jpg" alt="Vườn Quốc Gia Kon Ka Kinh">
+                        <img src="img/kakinh.jpg" alt="Vườn Quốc Gia Kon Ka Kinh">
                         <div class="card-category">Thiên Nhiên</div>
                     </div>
                     <div class="card-body-custom">
@@ -505,7 +505,7 @@ Không chỉ đẹp mắt, nơi đây còn là điểm đến lý tưởng để
             <div class="col-md-4 dest-item" data-cat="van-hoa">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="anhbac.jpg" alt="Quảng Trường Đại Đoàn Kết">
+                        <img src="img/anhbac.jpg" alt="Quảng Trường Đại Đoàn Kết">
                         <div class="card-category">Văn Hoá</div>
                     </div>
                     <div class="card-body-custom">
@@ -530,7 +530,7 @@ Không chỉ đẹp mắt, nơi đây còn là điểm đến lý tưởng để
             <div class="col-md-8 dest-item" data-cat="bien-dao">
                 <div class="dest-card featured h-100">
                     <div class="card-img-wrap">
-                        <img src="kyco.jpg"
+                        <img src="img/kyco.jpg"
                              alt="Kỳ Co"
                              >
                         <div class="featured-crown"><i class="fas fa-crown"></i> Viên Ngọc Duyên Hải</div>
@@ -562,7 +562,7 @@ Không chỉ đẹp mắt, nơi đây còn là điểm đến lý tưởng để
             <div class="col-md-4 dest-item" data-cat="bien-dao">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="thinai.jpg"
+                        <img src="img/thinai.jpg"
                              alt="Đầm Thị Nại"
                             >
                         <div class="card-category">Biển & Đầm</div>
@@ -590,7 +590,7 @@ Không chỉ đẹp mắt, nơi đây còn là điểm đến lý tưởng để
             <div class="col-md-4 dest-item" data-cat="bien-dao">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="eogio.jpg"
+                        <img src="img/eogio.jpg"
                              alt="Eo Gió"
                              >
                         <div class="card-category">Biển & Đầm</div>
@@ -618,7 +618,7 @@ Không chỉ đẹp mắt, nơi đây còn là điểm đến lý tưởng để
             <div class="col-md-4 dest-item" data-cat="lich-su">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="thapdoi.jpg"
+                        <img src="img/thapdoi.jpg"
                              alt="Tháp Đôi Quy Nhơn"
                            >
                         <div class="card-category">Lịch Sử</div>
@@ -645,7 +645,7 @@ Không chỉ đẹp mắt, nơi đây còn là điểm đến lý tưởng để
             <div class="col-md-4 dest-item" data-cat="bien-dao">
                 <div class="dest-card h-100">
                     <div class="card-img-wrap">
-                        <img src="bienqnhon.jpg"
+                        <img src="img/bienqnhon.jpg"
                              alt="Bãi Biển Quy Nhơn">
                         <div class="card-category">Biển & Đầm</div>
                     </div>
